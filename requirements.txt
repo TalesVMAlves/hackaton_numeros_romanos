@@ -1,0 +1,17 @@
+transformers
+Pillow
+numpy
+joblib
+pathlib
+tqdm
+cleanlab[datalab]
+matplotlib
+plotly
+xgboost
+cleanvision
+seaborn
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+torchaudio
+transformers[torch]
